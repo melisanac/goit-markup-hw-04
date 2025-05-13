@@ -9,7 +9,6 @@ body {
 .container {
   display: flex;
   width: 1440px;
-  padding: 0px 0px 15px 0px;
   margin: 0 auto;
 }
 
@@ -233,7 +232,6 @@ h2 {
   display: flex;
   width: 100%;
   margin-top: 72px;
-  margin-bottom: 120px;
   justify-content: space-between;
 }
 
